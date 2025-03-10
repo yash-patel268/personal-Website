@@ -16,7 +16,7 @@ export const About = () => {
                 
                 <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                         <p className="text-gray-300 mb-6">
-                            A Software Engineer with over five years of coding experience. Driven by a passion to tackle complex challenges and work on innovative projects
+                        A Software Engineer with over five years of experience in designing, developing, scaling, and deploying applications both locally and in the cloud. Passionate about complex challenges and working on innovative projects.
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-2 md:grid-cols-3 md:grid-cols-4 md:grid-cols-5 gap-6">
