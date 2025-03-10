@@ -20,7 +20,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-between items-center">
-                                <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
+                                <a href="https://github.com/yash-patel268/Test-Mate" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
                             </div>
                         </div>
 
@@ -36,7 +36,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-between items-center">
-                                <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
+                                <a href="https://github.com/yash-patel268/Chat-Application" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
                             </div>
                         </div>
 
@@ -52,7 +52,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-between items-center">
-                                <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
+                                <a href="https://github.com/yash-patel268/Segmenting-and-Clustering-Neighborhoods-in-Toronto" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
                             </div>
                         </div>
 
@@ -68,7 +68,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-between items-center">
-                                <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
+                                <a href="https://github.com/yash-patel268/multi-docker" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
                             </div>
                         </div>
 
@@ -84,7 +84,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-between items-center">
-                                <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
+                                <a href="https://github.com/yash-patel268/Token-Farm-Defi-App" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
                             </div>
                         </div>
 
@@ -100,7 +100,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-between items-center">
-                                <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
+                                <a href="https://github.com/yash-patel268/Data-Management-Project" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
                             </div>
                         </div>
                     </div>                
